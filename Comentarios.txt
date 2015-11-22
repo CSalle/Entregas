@@ -1,6 +1,6 @@
-COMENTARIOS
+﻿COMENTARIOS
 ====================================================
-
+Hola soy Fernando
 Carlos: Creo este archivo para poner los comentarios que consideremos. Los nuevos ponedlos arriba para que los más antiguos vayan quedando debajo.
 
 
